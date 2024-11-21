@@ -37,8 +37,8 @@ Connect to the Linux instance using SSH.
 Connect to the Windows instance using RDP.
 
 ## OUTPUT
-### REG NUMBER: 212222110024
-### NAME: MATHESWARAN K
+### REG NUMBER: 212222100035
+### NAME: PRAKASH M
 1.) S3 bucket creation
 ![image](https://github.com/user-attachments/assets/8e87ec90-5256-4620-b07c-83b50d552c12)
 ![image](https://github.com/user-attachments/assets/85337179-40c7-4ca6-bdd2-2ea94b8e1a49)
